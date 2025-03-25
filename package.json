@@ -1,0 +1,17 @@
+{
+  "name": "bar-do-vila",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass source/style.scss build/style.css --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bar": "^0.1.2",
+    "do": "^0.7.0",
+    "vila": "^1.0.0"
+  }
+}
